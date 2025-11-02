@@ -1,0 +1,6 @@
+{
+  "Name": "SpamClearence",
+  "ProjectType": "Process",
+  "Description": "Clearing spams and promotional emails from my Gmail.",
+  "MainFile": "Main.xaml"
+}
